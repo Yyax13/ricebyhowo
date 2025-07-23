@@ -1,1 +1,3 @@
-alias nfetch='neofetch --ascii_distro ascii_distro_art --conf config_file.conf'
+chmod +x "$HOME/.nfetch/nfetch.sh"
+grep -qxF "alias nfetch=\"$HOME/.nfetch/nfetch.sh\"" "$HOME/.bashrc" || \
+echo "alias nfetch=\"$HOME/.nfetch/nfetch.sh\"" >> "$HOME/.bashrc"
