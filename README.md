@@ -124,3 +124,9 @@ Atualmente, a extensão Top Bar Organizer não foi instalada automaticamente. Ve
 - Pressione `Alt + F2`, digite `r` e pressione Enter.
 
 Agora você está pronto para aproveitar o seu novo visual "Tokyo Night" no Pop!_OS!
+
+bash:
+rode
+```bash
+cp -r neofetch ~/.nfetch
+```
