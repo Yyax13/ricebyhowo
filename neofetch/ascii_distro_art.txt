@@ -1,0 +1,18 @@
+\033[31m
+        :clc:                       
+        l0NX0Okxdlcc::              
+      :kWMMMMMMWNXXK0kxdolc:        
+      oKMMMMMMMMMMMMMMMWWNK0Okdolc: 
+      :kWMMMMMMMMMMMMMMMMMMMMMMWWNOl
+      oXMMMMMMMMMMMMMMMMMMMMMMMMMWk:
+    cOWMMMMMMWX00KXXNWMMMMMMMMMMKo  
+    dXMMMMMMMNx:::ccld0WMMMMMMMWk:  
+    cOWMMMMMMM0l      :OWMMMMMMWKl  
+    dNMMMMMMMWkc      oXMMMMMMMNx:  
+  c0WMMMMMMMWX0Okxdoo0WMMMMMMW0l    
+  :dNMMMMMMMMMMMMMMWWWWMMMMMMMNx:   
+  c0WMMMMMMMMMMMMMMMMMMMMMMMMW0c    
+  cdkO0XNWWMMMMMMMMMMMMMMMMMMNd:    
+      :clodkO0KNWWMMMMMMMMMMWOc     
+            ::lodxkk0KXNWWMXd       
+                    ::cloxkdc\033[0m

@@ -1,0 +1,1 @@
+alias nfetch='neofetch --ascii_distro ascii_distro_art --conf config_file.conf'
